@@ -41,11 +41,11 @@
 
   <!-- Name -->
   <text x="40" y="125" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace" font-size="32" font-weight="700" fill="#c9d1d9">I'm </text>
-  <text x="115" y="125" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace" font-size="32" font-weight="700" fill="#00d4aa">&lt;NAME&gt;</text>
+  <text x="115" y="125" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace" font-size="32" font-weight="700" fill="#00d4aa">Zaki</text>
 
   <!-- Tagline with prompt -->
   <text x="40" y="165" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace" font-size="16" fill="#00d4aa">$&gt;</text>
-  <text x="68" y="165" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace" font-size="16" fill="#7ee787">&lt;TAGLINE&gt;</text>
+  <text x="68" y="165" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace" font-size="16" fill="#7ee787">Software Developer</text>
 
   <!-- Blinking cursor -->
   <rect x="260" y="150" width="10" height="20" fill="#00d4aa" opacity="1">
@@ -60,27 +60,27 @@
     <!-- Location -->
     <text x="40" y="225" fill="#8b949e">📍</text>
     <text x="65" y="225" fill="#8b949e">Location:</text>
-    <text x="145" y="225" fill="#c9d1d9">&lt;LOCATION&gt;</text>
+    <text x="145" y="225" fill="#c9d1d9">Earth</text>
 
     <!-- Education -->
     <text x="40" y="255" fill="#8b949e">🎓</text>
     <text x="65" y="255" fill="#8b949e">Education:</text>
-    <text x="145" y="255" fill="#c9d1d9">&lt;EDUCATION&gt;</text>
+    <text x="145" y="255" fill="#c9d1d9">Computer Science</text>
 
     <!-- Focus -->
     <text x="40" y="285" fill="#8b949e">🎯</text>
     <text x="65" y="285" fill="#8b949e">Focus:</text>
-    <text x="125" y="285" fill="#c9d1d9">&lt;FOCUS&gt;</text>
+    <text x="125" y="285" fill="#c9d1d9">Building cool things</text>
 
     <!-- Portfolio -->
     <text x="40" y="315" fill="#8b949e">🌐</text>
     <text x="65" y="315" fill="#8b949e">Portfolio:</text>
-    <text x="145" y="315" fill="#58a6ff">&lt;PORTFOLIO_URL&gt;</text>
+    <text x="145" y="315" fill="#58a6ff">github.com/Zaki086</text>
 
     <!-- Email -->
     <text x="40" y="345" fill="#8b949e">✉️</text>
     <text x="65" y="345" fill="#8b949e">Email:</text>
-    <text x="120" y="345" fill="#58a6ff">&lt;EMAIL&gt;</text>
+    <text x="120" y="345" fill="#58a6ff">contact@example.com</text>
   </g>
 
   <!-- Skills heading -->
