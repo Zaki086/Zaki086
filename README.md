@@ -3,7 +3,7 @@
 <!--  Self-hosted SVG with SMIL path morphing. No GIFs. No external deps.        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="./assets/liquid-morph-wordmark.svg" alt="&lt;NAME&gt; — &lt;TAGLINE&gt;" width="100%" />
+  <img src="./assets/liquid-morph-wordmark.svg" alt="Zaki — Software Developer" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -21,10 +21,10 @@
 <h3 align="center"><code>$ cat current_focus.txt</code></h3>
 
 <pre align="center">
-&gt; building:   &lt;CURRENT_PROJECT&gt;
-&gt; learning:   &lt;CURRENT_LEARNING&gt;
-&gt; experimenting: &lt;CURRENT_EXPERIMENT&gt;
-&gt; shipping:   &lt;CURRENT_SHIPPING&gt;
+&gt; building:   an awesome CLI tool
+&gt; learning:   System Design
+&gt; experimenting: Local LLMs
+&gt; shipping:   v2.0 of my profile
 </pre>
 
 <br>
@@ -60,16 +60,16 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/&lt;USERNAME&gt;/&lt;USERNAME&gt;/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/&lt;USERNAME&gt;/&lt;USERNAME&gt;/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/&lt;USERNAME&gt;/&lt;USERNAME&gt;/output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaki086/Zaki086/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaki086/Zaki086/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Zaki086/Zaki086/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </p>
 
 <p align="center">
   <code>HIGH SCORE · CONTRIBS</code> ·
   <code>STREAK · ACTIVE</code> ·
-  <code>STAGE · &lt;CURRENT_ROLE&gt;</code>
+  <code>STAGE · Engineer</code>
 </p>
 
 <br>
@@ -86,15 +86,15 @@
 
 ```
 ┌────────────────────────────────────────┐
-│ 01  &lt;PROJECT_1_NAME&gt;                   │
-│     &lt;PROJECT_1_DESCRIPTION&gt;            │
-│     [&lt;TECH_1&gt;] [&lt;TECH_2&gt;] [&lt;TECH_3&gt;]  │
+│ 01  Terminal Dashboard                   │
+│     A terminal inspired GitHub profile            │
+│     [TypeScript] [React] [Python]  │
 └────────────────────────────────────────┘
 ```
 <p align="right">
-  <a href="https://github.com/&lt;USERNAME&gt;/&lt;REPO_1&gt;"><code>source →</code></a>
+  <a href="https://github.com/Zaki086/Zaki086"><code>source →</code></a>
   &nbsp;
-  <a href="&lt;DEMO_1_URL&gt;"><code>live →</code></a>
+  <a href="https://github.com/Zaki086"><code>live →</code></a>
 </p>
 
     </td>
@@ -102,15 +102,15 @@
 
 ```
 ┌────────────────────────────────────────┐
-│ 02  &lt;PROJECT_2_NAME&gt;                   │
-│     &lt;PROJECT_2_DESCRIPTION&gt;            │
-│     [&lt;TECH_1&gt;] [&lt;TECH_2&gt;] [&lt;TECH_3&gt;]  │
+│ 02  System Monitor                   │
+│     Real-time performance tracking            │
+│     [TypeScript] [React] [Python]  │
 └────────────────────────────────────────┘
 ```
 <p align="right">
-  <a href="https://github.com/&lt;USERNAME&gt;/&lt;REPO_2&gt;"><code>source →</code></a>
+  <a href="https://github.com/Zaki086/sys-mon"><code>source →</code></a>
   &nbsp;
-  <a href="&lt;DEMO_2_URL&gt;"><code>live →</code></a>
+  <a href="https://github.com/Zaki086"><code>live →</code></a>
 </p>
 
     </td>
@@ -120,15 +120,15 @@
 
 ```
 ┌────────────────────────────────────────┐
-│ 03  &lt;PROJECT_3_NAME&gt;                   │
-│     &lt;PROJECT_3_DESCRIPTION&gt;            │
-│     [&lt;TECH_1&gt;] [&lt;TECH_2&gt;] [&lt;TECH_3&gt;]  │
+│ 03  AI Agent                   │
+│     Automated coding assistant            │
+│     [TypeScript] [React] [Python]  │
 └────────────────────────────────────────┘
 ```
 <p align="right">
-  <a href="https://github.com/&lt;USERNAME&gt;/&lt;REPO_3&gt;"><code>source →</code></a>
+  <a href="https://github.com/Zaki086/ai-agent"><code>source →</code></a>
   &nbsp;
-  <a href="&lt;DEMO_3_URL&gt;"><code>live →</code></a>
+  <a href="https://github.com/Zaki086"><code>live →</code></a>
 </p>
 
     </td>
@@ -136,15 +136,15 @@
 
 ```
 ┌────────────────────────────────────────┐
-│ 04  &lt;PROJECT_4_NAME&gt;                   │
-│     &lt;PROJECT_4_DESCRIPTION&gt;            │
-│     [&lt;TECH_1&gt;] [&lt;TECH_2&gt;] [&lt;TECH_3&gt;]  │
+│ 04  Portfolio                   │
+│     My personal portfolio site            │
+│     [TypeScript] [React] [Python]  │
 └────────────────────────────────────────┘
 ```
 <p align="right">
-  <a href="https://github.com/&lt;USERNAME&gt;/&lt;REPO_4&gt;"><code>source →</code></a>
+  <a href="https://github.com/Zaki086/portfolio"><code>source →</code></a>
   &nbsp;
-  <a href="&lt;DEMO_4_URL&gt;"><code>live →</code></a>
+  <a href="https://github.com/Zaki086"><code>live →</code></a>
 </p>
 
     </td>
@@ -170,11 +170,11 @@
 <h3 align="center">┌─ CONNECT ─┐</h3>
 
 <p align="center">
-  <a href="https://github.com/&lt;USERNAME&gt;"><code>github</code></a> &nbsp;·&nbsp;
-  <a href="&lt;PORTFOLIO_URL&gt;"><code>portfolio</code></a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/&lt;LINKEDIN_HANDLE&gt;"><code>linkedin</code></a> &nbsp;·&nbsp;
-  <a href="https://twitter.com/&lt;TWITTER_HANDLE&gt;"><code>twitter</code></a> &nbsp;·&nbsp;
-  <a href="mailto:&lt;EMAIL&gt;"><code>email</code></a>
+  <a href="https://github.com/Zaki086"><code>github</code></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Zaki086"><code>portfolio</code></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/zaki"><code>linkedin</code></a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/zaki086"><code>twitter</code></a> &nbsp;·&nbsp;
+  <a href="mailto:contact@example.com"><code>email</code></a>
 </p>
 
 <br>
